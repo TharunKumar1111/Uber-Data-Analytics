@@ -122,7 +122,7 @@ The project investigates 16 business questions:
 ## Dashboard Screenshots
 
 ### Overall Dashboard
-![Uber Trip Analytics Dashboard](screenshots/uber-dashboard.png)
+![Uber Trip Analytics Dashboard](Uber_dashboard.png)
 
 
 
